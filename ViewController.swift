@@ -21,7 +21,8 @@ class ViewController: UIViewController {
 
     @IBAction func changeClicked(_ sender: Any) {
         imageView.image = UIImage(named: "Duck")
-        print("testGit")
+        
+        print("hehe")
     }
     
 }
